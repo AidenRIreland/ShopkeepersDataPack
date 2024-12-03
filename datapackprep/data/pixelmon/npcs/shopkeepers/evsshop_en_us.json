@@ -1,0 +1,99 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+{
+"name": "battlegirl.png"
+},
+{
+"name": "blackbelt.png"
+},
+{
+"name": "blacksmith.png"
+}
+],
+  "names": [
+{
+"name":"EV Item's"
+}
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the EV shop. I got both pills and berries",
+      "goodbye": "See you next time for more EVs."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:hp_up",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:protein",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:iron",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:calcium",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:zinc",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:carbos",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:pp_up",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:pp_max",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:pomeg_berry",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:kelpsy_berry",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:qualot_berry",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:hondew_berry",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:grepa_berry",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:tamato_berry",
+      "variation": false,
+      "rarity": 1.0
+    }
+  ]
+}

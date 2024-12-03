@@ -1,0 +1,763 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+{
+"name": "baker.png"
+},
+{
+"name": "battlegirl.png"
+},
+{
+"name": "breedergreen_f.png"
+},
+{
+"name": "bugcatchergirl.png"
+},
+{
+"name": "flaregruntfemale.png"
+},
+{
+"name": "magmagruntfemale.png"
+},
+{
+"name": "scottish.png"
+},
+{
+"name": "shopgirl.png"
+},
+{
+"name": "shoplady.png"
+},
+{
+"name": "shoplady2.png"
+},
+{
+"name": "shoplady3.png"
+},
+{
+"name": "shoplady4.png"
+},
+{
+"name": "shoplady5.png"
+}
+],
+  "names": [
+{
+"name":"Candy Shop"
+},
+{
+"name":"Deborah"
+},
+{
+"name":"Brianna"
+},
+{
+"name":"Neve"
+},
+{
+"name":"Nina"
+},
+{
+"name":"Maisy"
+},
+{
+"name":"Joanna"
+},
+{
+"name":"Charlotte"
+},
+{
+"name":"Layla"
+},
+{
+"name":"Tianna"
+},
+{
+"name":"Maia"
+},
+{
+"name":"Gabriella"
+},
+{
+"name":"Francesca"
+},
+{
+"name":"Contance"
+},
+{
+"name":"Miriam"
+},
+{
+"name":"Kyra"
+},
+{
+"name":"Alfie"
+},
+{
+"name":"Chelsea"
+},
+{
+"name":"Alicia"
+},
+{
+"name":"Jane"
+},
+{
+"name":"Demi"
+},
+{
+"name":"Elsie"
+},
+{
+"name":"Zahra"
+},
+{
+"name":"Lillian"
+},
+{
+"name":"Ffion"
+},
+{
+"name":"Kayla"
+},
+{
+"name":"Ellen"
+},
+{
+"name":"Barbara"
+},
+{
+"name":"Daisy"
+},
+{
+"name":"Gabrielle"
+},
+{
+"name":"Aliya"
+},
+{
+"name":"Violet"
+},
+{
+"name":"Evangelo"
+},
+{
+"name":"Ismail"
+},
+{
+"name":"Amir"
+},
+{
+"name":"Herbert"
+},
+{
+"name":"Nicolas"
+},
+{
+"name":"Alvin"
+},
+{
+"name":"Rufus"
+},
+{
+"name":"Lara"
+},
+{
+"name":"Willie"
+},
+{
+"name":"Umar"
+},
+{
+"name":"Bret"
+},
+{
+"name":"Pearl"
+},
+{
+"name":"Jak"
+},
+{
+"name":"Zachary"
+},
+{
+"name":"Jesse"
+},
+{
+"name":"Juan"
+},
+{
+"name":"Roy"
+},
+{
+"name":"Fraser"
+},
+{
+"name":"Marshall"
+},
+{
+"name":"Johnny"
+},
+{
+"name":"Raphael"
+},
+{
+"name":"Lloyd"
+},
+{
+"name":"Clause"
+},
+{
+"name":"Edward"
+},
+{
+"name":"Jim"
+},
+{
+"name":"Jeremiah"
+},
+{
+"name":"Bernard"
+},
+{
+"name":"Robert"
+},
+{
+"name":"Harold"
+},
+{
+"name":"Brandon"
+},
+{
+"name":"Patrick"
+},
+{
+"name":"Maximilian"
+},
+{
+"name":"Agrippo"
+},
+{
+"name":"Agrippa"
+},
+{
+"name":"Ailbe"
+},
+{
+"name":"Aldus"
+},
+{
+"name":"Aleks"
+},
+{
+"name":"Amari"
+},
+{
+"name":"Aran"
+},
+{
+"name":"Ariel"
+},
+{
+"name":"Aroha"
+},
+{
+"name":"Aştî"
+},
+{
+"name":"Averill"
+},
+{
+"name":"Awee"
+},
+{
+"name":"Awotwi"
+},
+{
+"name":"Ayotunde"
+},
+{
+"name":"Babe"
+},
+{
+"name":"Bandile"
+},
+{
+"name":"Billie"
+},
+{
+"name":"Cam"
+},
+{
+"name":"Camryn"
+},
+{
+"name":"Carmo"
+},
+{
+"name":"Chan"
+},
+{
+"name":"Châu"
+},
+{
+"name":"Chesley"
+},
+{
+"name":"Chima"
+},
+{
+"name":"Chiyna"
+},
+{
+"name":"Chiyembek"
+},
+{
+"name":"Chizoba"
+},
+{
+"name":"Chun"
+},
+{
+"name":"Codie"
+},
+{
+"name":"D'Arcy"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dara"
+},
+{
+"name":"Dawa"
+},
+{
+"name":"Deniz"
+},
+{
+"name":"Dîyar"
+},
+{
+"name":"Dubaku"
+},
+{
+"name":"Duygu"
+},
+{
+"name":"Eirian"
+},
+{
+"name":"Ejiroghene"
+},
+{
+"name":"Ellington"
+},
+{
+"name":"Emerson"
+},
+{
+"name":"Emmery"
+},
+{
+"name":"Eun-Jung"
+},
+{
+"name":"Evangelista"
+},
+{
+"name":"Feidlimid"
+},
+{
+"name":"Ferdous"
+},
+{
+"name":"Fido"
+},
+{
+"name":"Firdos"
+},
+{
+"name":"Flick"
+},
+{
+"name":"Gerelt"
+},
+{
+"name":"Gili"
+},
+{
+"name":"Glaucia"
+},
+{
+"name":"Gul"
+},
+{
+"name":"Gurpreet"
+},
+{
+"name":"Harley"
+},
+{
+"name":"Heike"
+},
+{
+"name":"Hinata"
+},
+{
+"name":"Hollis"
+},
+{
+"name":"Hui"
+},
+{
+"name":"Isi"
+},
+{
+"name":"Itumeleng"
+},
+{
+"name":"Jae"
+},
+{
+"name":"Jamyang"
+},
+{
+"name":"Jayme"
+},
+{
+"name":"Jessy"
+},
+{
+"name":"Jessica"
+},
+{
+"name":"Jia"
+},
+{
+"name":"Jing"
+},
+{
+"name":"Jip"
+},
+{
+"name":"Jools"
+},
+{
+"name":"Kaede"
+},
+{
+"name":"Kagiso"
+},
+{
+"name":"Kaimana"
+},
+{
+"name":"Kanta"
+},
+{
+"name":"Kaulana"
+},
+{
+"name":"Kehinde"
+},
+{
+"name":"Kennedy"
+},
+{
+"name":"Khayrat"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Lacy"
+},
+{
+"name":"Lakshmi"
+},
+{
+"name":"Laxmi"
+},
+{
+"name":"Lindsay"
+},
+{
+"name":"Liraz"
+},
+{
+"name":"Lorrin"
+},
+{
+"name":"Lucero"
+},
+{
+"name":"Lungile"
+},
+{
+"name":"Lupe"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Maitland"
+},
+{
+"name":"Makana"
+},
+{
+"name":"Martie"
+},
+{
+"name":"Matija"
+},
+{
+"name":"Maurie"
+},
+{
+"name":"McKenzie"
+},
+{
+"name":"Min-Jun"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Monet"
+},
+{
+"name":"Montana"
+},
+{
+"name":"Mudiwa"
+},
+{
+"name":"Naseem"
+},
+{
+"name":"Navneet"
+},
+{
+"name":"Nerþuz"
+},
+{
+"name":"Nilam"
+},
+{
+"name":"Noam"
+},
+{
+"name":"Nour"
+},
+{
+"name":"Nsia"
+},
+{
+"name":"Nuka"
+},
+{
+"name":"Ofra"
+},
+{
+"name":"Ogochukwu"
+},
+{
+"name":"Olayinka"
+},
+{
+"name":"Oluwaseyi"
+},
+{
+"name":"Otgonbayar"
+},
+{
+"name":"Paget"
+},
+{
+"name":"Palmer"
+},
+{
+"name":"Payne"
+},
+{
+"name":"Ratna"
+},
+{
+"name":"Ricmod"
+},
+{
+"name":"Rylie"
+},
+{
+"name":"Şan"
+},
+{
+"name":"Seung"
+},
+{
+"name":"Shahar"
+},
+{
+"name":"Simcha"
+},
+{
+"name":"Sovanna"
+},
+{
+"name":"Stav"
+},
+{
+"name":"Steph"
+},
+{
+"name":"Storm"
+},
+{
+"name":"Suman"
+},
+{
+"name":"Tatum"
+},
+{
+"name":"Tendai"
+},
+{
+"name":"Tivoli"
+},
+{
+"name":"Tiwonge"
+},
+{
+"name":"Tiyamike"
+},
+{
+"name":"Tshepo"
+},
+{
+"name":"Tu"
+},
+{
+"name":"Tumelo"
+},
+{
+"name":"Uche"
+},
+{
+"name":"Udo"
+},
+{
+"name":"Unathi"
+},
+{
+"name":"Vanna"
+},
+{
+"name":"Wambli"
+},
+{
+"name":"Waverly"
+},
+{
+"name":"Wei"
+},
+{
+"name":"Xuân"
+},
+{
+"name":"Yağmur"
+},
+{
+"name":"Yuuki"
+}
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the candy store. I got some candy for you!",
+      "goodbye": "See you next time for more sweet's."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:xs_exp_candy",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:s_exp_candy",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:m_exp_candy",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:l_exp_candy",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:xl_exp_candy",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:rare_candy",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_berry",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_ribbon",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_clover",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_flower",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_love",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_star",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sweet_strawberry",
+      "variation": false,
+      "rarity": 1.0
+    }
+  ]
+}

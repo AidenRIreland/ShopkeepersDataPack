@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "battlegirl.png"
+    },
+    {
+      "name": "blackbelt.png"
+    },
+    {
+      "name": "engineer.png"
+    },
+    {
+      "name": "evilprofessor.png"
+    },
+    {
+      "name": "blacksmith.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Gem Shop"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Gem shop. I’ve got the gems you need!",
+      "goodbye": "See you next time!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:grass_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:fire_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:water_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:ground_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:rock_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:steel_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:flying_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:electric_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:ice_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:normal_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:fighting_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:ghost_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:poison_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:bug_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:psychic_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:dark_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:fairy_gem",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:dragon_gem",
+      "variation": false,
+      "rarity": 1.0
+    }
+  ]
+}

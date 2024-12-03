@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+{
+"name": "battlegirl.png"
+},
+{
+"name": "blackbelt.png"
+},
+{
+"name": "engineer.png"
+},
+{
+"name": "evilprofessor.png"
+},
+{
+"name": "blacksmith.png"
+}
+],
+  "names": [
+{
+"name":"Evolution Stones"
+}
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Evo shop. I got stones that you neec",
+      "goodbye": "See you next time when you need stone's"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:fire_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:water_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:thunder_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:leaf_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:ice_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:dawn_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:sun_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:dusk_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:moon_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:shiny_stone",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:deep_sea_scale",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:deep_sea_tooth",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:prism_scale",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:metal_coat",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:electirizer",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:magmarizer",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:protector",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:up-grade",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:dubious_disc",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:dragon_scale",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:reaper_cloth",
+      "variation": false,
+      "rarity": 1.0
+    }
+  ]
+}
