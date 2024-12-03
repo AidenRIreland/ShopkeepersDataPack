@@ -232,7 +232,7 @@
       "nbtData": {
         "PokeBallID": "safari_ball"
       },
-      "buy": 2500000,
+      "buy": 1000,
       "sell": 0
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "name": "pixelmon:fresh_water",
-      "buy": 200,
+      "buy": 1000,
       "sell": 100
     },
     {
@@ -1069,6 +1069,11 @@
     },
     {
       "name": "pixelmon:dubious_disc",
+      "buy": 10000,
+      "sell": 100
+    },
+    {
+      "name":"pixelmon:up_grade",
       "buy": 10000,
       "sell": 100
     },
@@ -5683,8 +5688,7 @@
 },
 {
 "name": "minecraft:grass_block",
-"buy": 5,
-"sell": 1
+"buy": 500
 },
 {
 "name": "minecraft:dirt",
@@ -5923,8 +5927,7 @@
 },
 {
 "name": "minecraft:oak_leaves",
-"buy": 5,
-"sell": 1
+"buy": 1000
 },
 {
 "name": "minecraft:spruce_leaves",
@@ -5963,7 +5966,7 @@
 },
 {
 "name": "minecraft:glass",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6018,7 +6021,7 @@
 },
 {
 "name": "minecraft:cobweb",
-"buy": 25,
+"buy": 1000,
 "sell": 5
 },
 {
@@ -6053,8 +6056,8 @@
 },
 {
 "name": "minecraft:white_wool",
-"buy": 32,
-"sell": 6
+"buy": 1000,
+"sell": 1
 },
 {
 "name": "minecraft:orange_wool",
@@ -6133,7 +6136,7 @@
 },
 {
 "name": "minecraft:dandelion",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6193,13 +6196,13 @@
 },
 {
 "name": "minecraft:gold_block",
-"buy": 720,
+"buy": 5000,
 "sell": 144
 },
 {
 "name": "minecraft:iron_block",
-"buy": 639,
-"sell": 128
+"buy": 1000,
+"sell": 9
 },
 {
 "name": "minecraft:oak_slab",
@@ -6318,7 +6321,7 @@
 },
 {
 "name": "minecraft:bricks",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6328,8 +6331,7 @@
 },
 {
 "name": "minecraft:bookshelf",
-"buy": 32,
-"sell": 6
+"buy": 1000
 },
 {
 "name": "minecraft:mossy_cobblestone",
@@ -6338,7 +6340,7 @@
 },
 {
 "name": "minecraft:obsidian",
-"buy": 12,
+"buy": 1000,
 "sell": 2
 },
 {
@@ -6398,7 +6400,7 @@
 },
 {
 "name": "minecraft:diamond_block",
-"buy": 7,
+"buy": 10000,
 "sell": 1
 },
 {
@@ -6493,12 +6495,12 @@
 },
 {
 "name": "minecraft:ice",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
 "name": "minecraft:snow_block",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6508,7 +6510,7 @@
 },
 {
 "name": "minecraft:clay",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6563,12 +6565,12 @@
 },
 {
 "name": "minecraft:soul_sand",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
 "name": "minecraft:glowstone",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6733,7 +6735,7 @@
 },
 {
 "name": "minecraft:mycelium",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6768,7 +6770,7 @@
 },
 {
 "name": "minecraft:end_stone",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6783,7 +6785,7 @@
 },
 {
 "name": "minecraft:redstone_lamp",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -6913,7 +6915,7 @@
 },
 {
 "name": "minecraft:redstone_block",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -7018,7 +7020,7 @@
 },
 {
 "name": "minecraft:brown_terracotta",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -7048,7 +7050,7 @@
 },
 {
 "name": "minecraft:hay_block",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -7138,7 +7140,7 @@
 },
 {
 "name": "minecraft:coal_block",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -7158,7 +7160,7 @@
 },
 {
 "name": "minecraft:slime_block",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -7933,7 +7935,7 @@
 },
 {
 "name": "minecraft:blue_ice",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8018,7 +8020,7 @@
 },
 {
 "name": "minecraft:flint_and_steel",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8168,7 +8170,7 @@
 },
 {
 "name": "minecraft:feather",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8332,6 +8334,11 @@
 "sell": 1
 },
 {
+  "name": "minecraft:scute",
+  "buy": 1000,
+  "sell": 1
+},
+{
 "name": "minecraft:painting",
 "buy": 7,
 "sell": 1
@@ -8358,12 +8365,12 @@
 },
 {
 "name": "minecraft:water_bucket",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
 "name": "minecraft:lava_bucket",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8378,7 +8385,7 @@
 },
 {
 "name": "minecraft:redstone",
-"buy": 7,
+"buy": 1,
 "sell": 1
 },
 {
@@ -8393,7 +8400,7 @@
 },
 {
 "name": "minecraft:leather",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8423,7 +8430,7 @@
 },
 {
 "name": "minecraft:brick",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8488,7 +8495,7 @@
 },
 {
 "name": "minecraft:clock",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -8768,12 +8775,12 @@
 },
 {
 "name": "minecraft:blaze_rod",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
 "name": "minecraft:ghast_tear",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -9223,7 +9230,7 @@
 },
 {
 "name": "minecraft:spider_eye",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -9243,7 +9250,7 @@
 },
 {
 "name": "minecraft:brewing_stand",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -9253,7 +9260,7 @@
 },
 {
 "name": "minecraft:ender_eye",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -9583,7 +9590,7 @@
 },
 {
 "name": "minecraft:skeleton_skull",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -11108,7 +11115,7 @@
 },
 {
 "name": "minecraft:soul_torch",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
@@ -11343,7 +11350,7 @@
 },
 {
 "name": "minecraft:target",
-"buy": 7,
+"buy": 1000,
 "sell": 1
 },
 {
